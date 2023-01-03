@@ -6,4 +6,4 @@
 
 #### Resume
 ***
-In this project you will replicate three pages already created during the course with the sample available.
+In this project you will replicate page already created during the course with the sample available.

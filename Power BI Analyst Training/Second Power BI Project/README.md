@@ -2,7 +2,7 @@
 
 ## Project
 
-### First Power BI Project - Sample Financial
+### Second Power BI Project - Sample Financial
 
 #### Resume
 ***
